@@ -1,0 +1,15 @@
+{
+  "name": "@hao-dev/uk-geojson",
+  "version": "1.0.3",
+  "description": "",
+  "publishConfig": {
+    "access": "public"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
